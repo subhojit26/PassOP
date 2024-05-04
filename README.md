@@ -15,4 +15,4 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 
-A few changes are left and then I would like to deploy it using Vercel...
+Made it fully responsive so that user can use on any device and save their passwords on the go! Finally deployed it using vercel.
